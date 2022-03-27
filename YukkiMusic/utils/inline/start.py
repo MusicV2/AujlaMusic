@@ -19,7 +19,7 @@ def start_pannel(_):
     buttons = [
         
 
-                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
+                [InlineKeyboardButton("💌𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨✍️", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
 
                 
 
@@ -33,13 +33,13 @@ def start_pannel(_):
 
                     InlineKeyboardButton(
 
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/Punjabi_ChatGroup"
+                        "❤️𝗚𝗿𝗼𝘂𝗽❤️", url=f"https://t.me/Punjabi_ChatGroup"
 
                     ),
 
                     InlineKeyboardButton(
 
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/PB_65_Aujla"
+                        "❤️𝗢𝘄𝗻𝗲𝗿❤️", url=f"https://t.me/PB_65_Aujla"
 
                     ),
 
@@ -55,7 +55,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
 
                     InlineKeyboardButton(
 
-                        "❰➕ 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 ➕❱",
+                        "😍➕ 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 ➕😍",
 
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
 
@@ -63,7 +63,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
 
                 ],
 
-                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
+                [InlineKeyboardButton("💌𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨✍️", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
 
                 
 
@@ -77,18 +77,18 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
 
                     InlineKeyboardButton(
 
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/Punjabi_ChatGroup"
+                        "❤️𝗚𝗿𝗼𝘂𝗽❤️", url=f"https://t.me/Punjabi_ChatGroup"
 
                     ),
 
                     InlineKeyboardButton(
 
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/PB_65_Aujla"
+                        "❤️𝗢𝘄𝗻𝗲𝗿❱❤️", url=f"https://t.me/PB_65_Aujla"
 
                     ),
 
                 ],
-        [InlineKeyboardButton("❰🏳️‍🌈 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚❱", callback_data="LG")],
+        [InlineKeyboardButton("🇮🇳 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 🇮🇳", callback_data="LG")],
     ]
   
     return buttons
