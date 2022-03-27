@@ -178,10 +178,10 @@ async def stream(
                 
                 [
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/Punjabi_ChatGroup"
+                        "❤️𝗚𝗿𝗼𝘂𝗽❤️", url=f"https://t.me/Punjabi_ChatGroup"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/PB_65_Aujla"
+                        "❤️𝗢𝘄𝗻𝗲𝗿❤️", url=f"https://t.me/PB_65_Aujla"
                     ),
                 ],
                 
