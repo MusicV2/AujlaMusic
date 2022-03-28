@@ -39,7 +39,7 @@ def start_pannel(_):
 
                     InlineKeyboardButton(
 
-                        "❤️🅢🅣🅐🅣🅤🅢❤️", url=f"https://t.me/Punjabi_Status_Mania"
+                        "🎬🅢🅣🅐🅣🅤🅢🎥", url=f"https://t.me/Punjabi_Status_Mania"
 
                     ),
 
