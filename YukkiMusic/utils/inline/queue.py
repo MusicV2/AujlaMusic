@@ -38,7 +38,7 @@ def queue_markup(
                     text="❤️🅢🅣🅐🅣🅤🅢❤️", url=f"https://t.me/Punjabi_Status_Mania"
                 ),
                 InlineKeyboardButton(
-                    text="❤️𝔾ℝ𝕆𝕌ℙ❤️", url=f"https://t.me/Punjabi_ChatGroup"
+                    text="🧑‍🤝‍🧑𝔾ℝ𝕆𝕌ℙ👭", url=f"https://t.me/Punjabi_ChatGroup"
                 ),
             ],
         [
