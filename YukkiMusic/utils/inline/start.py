@@ -19,7 +19,7 @@ def start_pannel(_):
     buttons = [
         
 
-                [InlineKeyboardButton("💌🅒🅞🅜🅜🅐🅝🅓🅢✍️", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
+                [InlineKeyboardButton("💌𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨✍️", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
 
                 
 
@@ -33,7 +33,7 @@ def start_pannel(_):
 
                     InlineKeyboardButton(
 
-                        "❤️𝔾ℝ𝕆𝕌ℙ❤️", url=f"https://t.me/Punjabi_ChatGroup"
+                        "🧑‍🤝‍🧑𝔾ℝ𝕆𝕌ℙ👭", url=f"https://t.me/Punjabi_ChatGroup"
 
                     ),
 
@@ -55,7 +55,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
 
                     InlineKeyboardButton(
 
-                        "😍➕ 🇦 🇩 🇩  🇲 🇪  🇹 🇴  🇾 🇴 🇺 🇷  🇬 🇷 🇴 🇺 🇵  ➕😍",
+                        "🌹➕ คdd мε тσ ყσuя gяσup ➕🌾",
 
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
 
@@ -63,7 +63,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
 
                 ],
 
-                [InlineKeyboardButton("💌🅒🅞🅜🅜🅐🅝🅓🅢✍️", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
+                [InlineKeyboardButton("💌𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨✍️", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
 
                 
 
@@ -77,7 +77,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
 
                     InlineKeyboardButton(
 
-                        "❤️𝔾ℝ𝕆𝕌ℙ❤️", url=f"https://t.me/Punjabi_ChatGroup"
+                        "🧑‍🤝‍🧑𝔾ℝ𝕆𝕌ℙ👭", url=f"https://t.me/Punjabi_ChatGroup"
 
                     ),
 
